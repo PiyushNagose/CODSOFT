@@ -8,11 +8,17 @@ CALCULATOR
 
 Description: This is a simple calculator that takes input from the user which type of task he wants to perform and calculator performs variety of operation like addition, subtraction, multiplication, and division and produces the result.
 Technologies Used: Python, VS code editor.
+![Screenshot 2024-07-04 095153](https://github.com/PiyushNagose/CODSOFT/assets/140475543/8cf59191-262d-4269-954b-70e6176ad221)
+![Screenshot 2024-07-04 095206](https://github.com/PiyushNagose/CODSOFT/assets/140475543/83711f8d-5042-4a66-9bb0-fb77e8b4dab5)
+
 
 ROCK PAPER SCISSOR GAME
 
 Description: this is a rock paper scissor game in which there are two player user and comp in which user enter it's turn and then comp randomly generates it's chance and gives the result that is updated through the user score and comp score and then again you are ready to play.
 Technologies Used: Python, VS code editor.
+![Screenshot 2024-07-04 095653](https://github.com/PiyushNagose/CODSOFT/assets/140475543/a4d253af-c7aa-4a4e-9c71-56e3b7ff5c83)
+![Screenshot 2024-07-04 095739](https://github.com/PiyushNagose/CODSOFT/assets/140475543/f37e3a62-6253-42cb-b156-7057ea0298c9)
+
 
 PASSWORD GENERATOR 
 
@@ -20,3 +26,4 @@ Descriptiopassword : This is a random password generator which generates the pas
 Technologies Used: Python, VS code editor.
 
 These projects have helped me gain practical experience in software development and have prepared me to tackle real-world challenges in the tech industry. I am excited to continue my journey as a developer and look forward to contributing to more innovative projects in the future.
+![Screenshot 2024-07-04 095816](https://github.com/PiyushNagose/CODSOFT/assets/140475543/a8a9333b-5ede-405b-9fc6-0d4e46d90f75)
