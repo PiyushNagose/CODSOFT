@@ -22,8 +22,33 @@ Technologies Used: Python, VS code editor.
 
 PASSWORD GENERATOR 
 
-Descriptiopassword : This is a random password generator which generates the password according to the user desired length.
+Descriptio : This is a random password generator which generates the password according to the user desired length.
 Technologies Used: Python, VS code editor.
+![Screenshot 2024-07-04 095816](https://github.com/PiyushNagose/CODSOFT/assets/140475543/a8a9333b-5ede-405b-9fc6-0d4e46d90f75)
+
+
+TO-DO-LIST
+
+Description : This is a simple to-do-list in which we can add, update, complete, delete no. of tasks in simple words we can track the task record and store the task.
+Technologies Used : Python, VS code editor.
+![Screenshot 2024-07-09 121859](https://github.com/PiyushNagose/CODSOFT/assets/140475543/e0072a8a-38fc-4cb7-b9b5-62a611162d03)
+![Screenshot 2024-07-09 121841](https://github.com/PiyushNagose/CODSOFT/assets/140475543/a38ecd58-b7f0-46f8-a9cb-83b11df4e1cf)
+![Screenshot 2024-07-09 121817](https://github.com/PiyushNagose/CODSOFT/assets/140475543/c852a422-23c1-4d84-b5bc-af87d70ecf99)
+
+
+CONTACK BOOK
+
+Description : This is a minor project called contact book in which we can store records of an individual person with their essential information like name, contact no., email, and address so that we can get in touch with the person. This contact book also includes features like update records, view details, delete contact and some other.
+Technologies Used : Python, VS code editor.
+![Screenshot 2024-07-09 120939](https://github.com/PiyushNagose/CODSOFT/assets/140475543/458e773a-a15a-4d6d-a2de-c7830684e8b2)
+![Screenshot 2024-07-09 121038](https://github.com/PiyushNagose/CODSOFT/assets/140475543/195dd215-69bf-47cb-b0b3-fadc71c18039)
+![Screenshot 2024-07-09 121000](https://github.com/PiyushNagose/CODSOFT/assets/140475543/e3193dfa-2cf5-40e9-a5b8-5299208a00a6)
 
 These projects have helped me gain practical experience in software development and have prepared me to tackle real-world challenges in the tech industry. I am excited to continue my journey as a developer and look forward to contributing to more innovative projects in the future.
-![Screenshot 2024-07-04 095816](https://github.com/PiyushNagose/CODSOFT/assets/140475543/a8a9333b-5ede-405b-9fc6-0d4e46d90f75)
+
+
+
+
+
+
+
