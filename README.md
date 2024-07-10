@@ -1,4 +1,4 @@
-# CODSOFT_Taskno. 01
+# CODSOFT
 Hello! I'm Piyush Nagose, an enthusiastic and dedicated aspiring developer currently participating in a virtual internship program with CodSoft. During this internship, I've had the opportunity to work on a variety of projects that have allowed me to develop and refine my skills in software development, problem-solving, and teamwork. My passion for technology and continuous learning drives me to create innovative solutions and contribute to impactful projects.
 
 Internship Projects
